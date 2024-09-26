@@ -36,18 +36,18 @@ Follow these steps to get the project running locally:
 
 2. **Navigate to the project directory** :
 
-  ```bash
-  cd online-exam-portal
+   ```bash
+   cd online-exam-portal
 
 3. **Install dependencies** :
 
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. **Start the development server** :
 
-   ```bash
-   npm start
+    ```bash
+    npm start
 
 The app will be accessible at http://localhost:3000.
 
