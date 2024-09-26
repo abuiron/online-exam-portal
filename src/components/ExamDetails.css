@@ -1,0 +1,35 @@
+.exam-details-container {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #00ff22;
+    margin-bottom: 1.5rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.5rem;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  tr:hover {
+    background-color: #6291c4;
+    transition: background-color 0.3s ease;
+  }
+  
+  th {
+    background-color: #343a40;
+    color: white;
+  }
+  

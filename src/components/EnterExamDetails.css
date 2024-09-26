@@ -1,0 +1,38 @@
+.form-container {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    border-radius: 15px;
+    padding: 2rem;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  .form-container:hover {
+    transform: translateY(-5px);
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #343a40;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .MuiTextField-root {
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .MuiTextField-root:focus-within {
+    box-shadow: 0px 0px 5px #495057;
+  }
+  
+  .MuiButton-root {
+    background: linear-gradient(45deg, #007bff, #6610f2);
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .MuiButton-root:hover {
+    background: linear-gradient(45deg, #6610f2, #007bff);
+  }
+  

@@ -1,0 +1,43 @@
+.MuiPaper-root {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MuiTableCell-root {
+    padding: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .MuiTableCell-root:hover {
+    background-color: #e9ecef;
+  }
+  
+  .MuiButtonBase-root {
+    transition: color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .MuiButtonBase-root:hover {
+    color: #007bff;
+    transform: scale(1.1);
+  }
+  
+  .MuiIconButton-root {
+    transition: background-color 0.3s ease;
+  }
+  
+  .MuiIconButton-root:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .MuiButton-contained {
+    background: linear-gradient(135deg, #6f42c1, #d63384);
+    color: white;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .MuiButton-contained:hover {
+    background: linear-gradient(135deg, #d63384, #6f42c1);
+  }
+  
