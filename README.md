@@ -1,7 +1,13 @@
-# Online Exam Portal
+# Online Exam Table
 
-The **Online Exam Portal** is a web-based application that allows users to create, manage, and view online exams with varying difficulty levels. The portal provides functionalities to define the exam structure, manage questions, and view exam details in an organized manner. Built using **React.js** and **Material UI**, the application supports modern UI components and user-friendly features.
+The **Online Exam Table** is a web-based application that allows users to create, manage, and view online exams with varying difficulty levels. The portal provides functionalities to define the exam structure, manage questions, and view exam details in an organized manner. Built using **React.js** and **Material UI**, the application supports modern UI components and user-friendly features.
 
+## Live Link
+-[Exam Table Live App](https://exam-table.netlify.app/)
+
+## Home Page
+ ![homepage](https://github.com/abuiron/online-exam-portal/blob/main/public/front.png?raw=true)
+ 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
